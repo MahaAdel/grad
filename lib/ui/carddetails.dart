@@ -230,6 +230,7 @@ class _CardDetailsState extends State<CardDetails> {
   }
 }
 
+
 void showTapMsg(BuildContext context) {
   var alert = new AlertDialog(
     title: new Text("You have reserved a seat"),
